@@ -8,7 +8,9 @@ _WORK EXPERIENCE_
 
 _RESEARCH EXPERIENCE_
 * 📚 Poster Presenter, 1st International Workshop on Computational and Mathematical Methods in Data Science (CoMaDS)
-* 🎤 Oral Presenter, the 2025 Mathematical Society of the Philippines Annual Convention
+* 🗣️ Oral Presenter, 2025 Mathematical Society of the Philippines Annual Convention
+* 🎤 Invited Speaker, ROADWISE: The Road Safety Systems Challenge
 
-_SOME (but not all!) OF MY PROJECTS_
+_PERSONAL PROJECTS_
 * 🚲 I was the Lead Proponent of the Cycling Maroons team in the 2024 Philippine Junior Data Science Challenge, which used optimal location finding for smart bicycle stations using student population density estimates.
+* 💻 I was a freelance coder for the machine learning models of the Quasar team in the Big 3 Startup Showdown hackathon hosted by Maya.
