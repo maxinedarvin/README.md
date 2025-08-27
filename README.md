@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a **BS Mathematics** graduate from the Univers
 
 _WORK EXPERIENCE_
 * 💼 I currently work as an _Actuarial Valuation Analyst_ for Willis Towers Watson Philippines. I use data to develop fair and comprehensive actuarial funding valuations of pension plans offered by companies in Canada.
-* 📊 I am currently the _External Affairs and Finance Committee Co-Director_ of the UP Data Science Society, and primarily manage organization finances as well as leadership responsibilities for data science collaborations.
+* 📊 I am currently the _External Affairs and Finance Committee Co-Director_ of the UP Data Science Society. I primarily manage all of the organization's finances as well as take on leadership responsibilities for data science collaborations.
 
 _RESEARCH EXPERIENCE_
 * 📚 Poster Presenter, [1st International Workshop on Computational and Mathematical Methods in Data Science](https://www.facebook.com/IMathUPD/posts/2025-international-workshop-on-computational-and-mathematical-methods-in-data-sc/1161514155982439/).
