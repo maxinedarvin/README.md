@@ -13,4 +13,4 @@ _RESEARCH EXPERIENCE_
 
 _PERSONAL PROJECTS_
 * 🚲 I was the Lead Proponent of Team Cycling Maroons in the 2024 Philippine Junior Data Science Challenge, which used optimal location finding for smart bicycle stations using student population density estimates.
-* 💻 I was a freelance coder for Team Quasar in Maya's Big 3 Startup Showdown event last April 2025. I cleaned data and trained multiple machine learning models on 2500+ entries of real-life demographic data provided by a local Philippine bank to predict cashflow data and credit score of banking customers. [The team won](https://manilastandard.net/tech/314584265/maya-champions-young-innovators-at-the-big-3-startup-showdown.html).
+* 💻 I was a freelance coder for Team Quasar, who later won in Maya's Big 3 Startup Showdown event last April 2025. I cleaned data and trained multiple machine learning models on 2500+ entries of real-life demographic data provided by a local Philippine bank to predict cashflow data and credit score of banking customers. [News Article](https://manilastandard.net/tech/314584265/maya-champions-young-innovators-at-the-big-3-startup-showdown.html).
