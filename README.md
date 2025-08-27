@@ -12,5 +12,5 @@ _RESEARCH EXPERIENCE_
 * 🎤 Invited Speaker, [ROADWISE: The Road Safety Systems Challenge](https://www.facebook.com/p/RoadWise-Safe-Systems-Challenge-Philippines-61576205827063/).
 
 _PERSONAL PROJECTS_
-* 🚲 I was the Lead Proponent of the Cycling Maroons team in the 2024 Philippine Junior Data Science Challenge, which used optimal location finding for smart bicycle stations using student population density estimates.
-* 💻 I was a freelance coder for Team Quasar in Maya's Big 3 Startup Showdown event last April 2025. I cleaned data and trained multiple machine learning models on 2500+ entries of real-life demographic data provided by a local Philippine bank to predict cashflow data and credit score of banking customers. The team won in the Big 3 Startup Showdown, a hackathon sponsored by Maya.
+* 🚲 I was the Lead Proponent of Team Cycling Maroons in the 2024 Philippine Junior Data Science Challenge, which used optimal location finding for smart bicycle stations using student population density estimates.
+* 💻 I was a freelance coder for Team Quasar in Maya's Big 3 Startup Showdown event last April 2025. I cleaned data and trained multiple machine learning models on 2500+ entries of real-life demographic data provided by a local Philippine bank to predict cashflow data and credit score of banking customers. [The team won](https://manilastandard.net/tech/314584265/maya-champions-young-innovators-at-the-big-3-startup-showdown.html).
