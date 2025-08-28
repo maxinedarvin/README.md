@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Max.
 
-Welcome to my GitHub profile! I'm a **BS Mathematics** graduate from the University of the Philippines Diliman with a passion for **Data Analytics** and **Actuarial Science**. I like working on projects that give data-based solutions for practicality and efficiency.
+Welcome to my GitHub profile! I'm a **BS Mathematics** graduate from the University of the Philippines Diliman with a passion for **Data Analytics** and **Actuarial Science**. I like working on projects that give data-based solutions to efficiently enhance community quality-of-life.
 
 #### WORK EXPERIENCE
 * 💼 I currently work as an `Actuarial Valuation Analyst` for Willis Towers Watson Philippines. I manage employee data to develop fair and comprehensive actuarial funding valuations of pension plans offered by companies in Canada.
